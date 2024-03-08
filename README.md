@@ -22,7 +22,7 @@
 * **Tên môn học**: Máy học - MACHINE LEARNING
 * **Mã môn học**: CS114
 * **Lớp học**: CS114.O21.KHCL
-* **Ngày bắt đầu**: 01/03/2024
+* **Ngày bắt đầu**: 19/02/2024
 * **Năm học**: 2023-2024
 ## QUÁ TRÌNH MÔN HỌC
 <a name ="quatrinh"></a>
