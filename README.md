@@ -13,7 +13,6 @@
 
 ## BẢNG MỤC LỤC
 * [ Giới thiệu môn học](#gioithieumonhoc)
-* [Quá trình môn học](#quatrinh)
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
 * [ Đồ án môn học](#doan)
@@ -33,9 +32,6 @@
 ### 2.COLAB ASSSIGNMENTS
 
 
-<a name ="QT"></a>
-### 3.QT IN CLASS
-
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
 * PGS.TS. **Lê Đình Duy** - *duydl@uit.edu.vn*
@@ -46,6 +42,7 @@
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 21522734      | Vũ Kiên Trường |[KTruong9303](https://github.com/KTruong9303)       |21522734@gm.uit.edu.vn   |
+| 2      | 21522821      | Ngô Đăng Khoa |[NgoDangKhoauit](https://github.com/NgoDangKhoauit)       |21522821@gm.uit.edu.vn   |
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
